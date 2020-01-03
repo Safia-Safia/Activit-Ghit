@@ -5,7 +5,7 @@
 		
 		String hi = "Bonjour tout le monde !"
 
-	System.out.println(hi);
+	System.out.println(hi.toUpperCase());
 
 	
 	}
