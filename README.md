@@ -11,5 +11,5 @@ Activité cours Github
 
 		-Le premier est le fichier README, celui ci, qui va expliquer en quoi conciste le projet.
 		-Le second est un fichier java contenant affichant 'Bonjour tout le monde en majuscule" avec 4 commits.
-		-Le dernier est un fichier text concernant une webtoon avec 3 commit effectué.
+		-Le dernier est un fichier text concernant une webtoon avec 3 commits effectué.
 
